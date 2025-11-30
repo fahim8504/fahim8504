@@ -20,8 +20,7 @@ I design and develop scalable applications, implement machine learning models, a
 - Cloud architecture & DevOps best practices ☁️
 
 **Connect with Me 📫:**  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/mhdfahim/)  
-[![LeetCode](https://img.icons8.com/?size=100&id=S22n5FcHWTiO&format=png&color=000000)](https://leetcode.com/u/mohamed_fahim8504/)  
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/mhdfahim/) [![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/mohamed_fahim8504/)  
 [✉️ Email Me](mailto:m.mhdfahim@gmail.com)
 
 Focused on building impactful, efficient, and scalable solutions in software engineering, AI/ML, and deep learning domains.
